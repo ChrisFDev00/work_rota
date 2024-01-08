@@ -1,7 +1,7 @@
 # GCal API Event Creator
 
 Python loop to create Google Calendar events based on a rota dictionary.
-Connection to GCal authorised through the [https://developers.google.com/calendar/api/quickstart/python] (Google Developer API Quickstart)
+Connection to GCal authorised through the Google Developer [API Quickstart](https://developers.google.com/calendar/api/quickstart/python) guide.
 
 Details of rota held in rota.json as to not dox my friend. 
 
